@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WarningView">
+        <attr name="imgSrc" format="reference|color"/>
+        <attr name="warningText" format="string" />
+    </declare-styleable>
+
+</resources>
